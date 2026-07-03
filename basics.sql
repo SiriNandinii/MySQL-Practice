@@ -1,0 +1,11 @@
+SELECT NOW(), CURRENT_DATE;
+
+SELECT SIN(350), 200*30, 5000;
+
+select VERSION();
+
+SELECT SIN(PI()/4), (4+5)*5, 10+20;
+
+CREATE DATABASE mydb;
+
+USE mydb;
